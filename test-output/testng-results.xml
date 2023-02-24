@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-08-19T09:29:02 IST" name="Suite" finished-at="2022-08-19T09:31:06 IST" duration-ms="123662">
+    <groups>
+    </groups>
+    <test started-at="2022-08-19T09:29:02 IST" name="Test" finished-at="2022-08-19T09:31:06 IST" duration-ms="123662">
+      <class name="automation.UploadExample">
+        <test-method signature="testcase3()[pri:3, instance:automation.UploadExample@6babf3bf]" started-at="2022-08-19T09:30:44 IST" name="testcase3" description="testcase3" finished-at="2022-08-19T09:30:44 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase3 -->
+        <test-method signature="upload()[pri:4, instance:automation.UploadExample@6babf3bf]" started-at="2022-08-19T09:30:44 IST" name="upload" description="assertions" finished-at="2022-08-19T09:31:06 IST" duration-ms="21715" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- upload -->
+      </class> <!-- automation.UploadExample -->
+      <class name="automation.Assertions">
+        <test-method signature="assertlabels()[pri:1, instance:automation.Assertions@22e357dc]" started-at="2022-08-19T09:29:02 IST" name="assertlabels" description="assertions" finished-at="2022-08-19T09:30:44 IST" duration-ms="101868" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- assertlabels -->
+        <test-method signature="testcase2()[pri:2, instance:automation.Assertions@22e357dc]" started-at="2022-08-19T09:30:44 IST" name="testcase2" description="testcase2" finished-at="2022-08-19T09:30:44 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase2 -->
+      </class> <!-- automation.Assertions -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
